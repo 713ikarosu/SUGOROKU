@@ -1,0 +1,67 @@
+body {
+  text-align: center;
+  background: #e0e0e0;
+  width: 100%;
+}
+
+#SAIKORO {
+  display: inline-block;
+  margin: 0 auto;
+  width: 200px;
+  float: left;
+}
+
+#position {
+  margin: 0 auto;
+  width: 400px;
+}
+
+#saikoro {
+  margin: 10px auto;
+  width: 200px;
+  padding: 5px;
+  border-radius: 5px;
+  background: #00aaff;
+  cursor: pointer;
+}
+
+#square {
+  margin: 5px auto;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  line-height: 100px;
+  border-radius: 5px;
+  background-color: skyblue;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
+  font-size: 50px;
+}
+
+#now {
+  margin: 5px auto;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  line-height: 100px;
+  text-align: center;
+  border-radius: 5px;
+  background-color: pink;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
+  font-size: 50px;
+}
+
+
+li {
+  list-style-type: none;
+  display: inline-block;
+}
+
+
+#masu {
+  margin: 5px auto;
+  width: 50px;
+  height: 50px;
+  background-color: skyblue;
+  border-radius: 5px;
+  line-height: 50px;
+}
